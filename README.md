@@ -22,7 +22,7 @@ Suppose *S* = 95, *X* = 100, *H* = 140, *L* = 90, *t* = 1 (year), *s* = 25 (%), 
 	1. The price given by the tree is 1.457
 	2. The price given by the 1.94 (varies depending on the amount of paths of the Monte Carlo simulation).
 
-![demo](/images/demo.gif)
+![demo](/images/pic18_c.png)
 
 Because the second value is given by a Monte Carlo simulation, it will vary from run to run, as seen when comparing the image above with the image below.
 
