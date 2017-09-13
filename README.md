@@ -10,9 +10,9 @@ For this program, we have:
 1. **Inputs:** *S* (stock price), *X* (strike price), *H* (high barrier), *L* (low barrier), *t* (year), *s* (volatility in %), *r* (continuously compounded interest rate in %), and *n* (number of periods). 
 2. **Output:** Prices given by both the binomial tree and the Monte Carlo simulation.
 
-## NOTES
+### Notes
 
-Assume *L* < *S* < *H*.
+We need to assume *L* < *S* < *H*, i.e., the stock price is always between the lower and high barrier.
 
 ## USAGE
 In MatLab, just run the given file.
