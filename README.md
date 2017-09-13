@@ -27,3 +27,5 @@ Suppose *S* = 95, *X* = 100, *H* = 140, *L* = 90, *t* = 1 (year), *s* = 25 (%), 
 Because the second value is given by a Monte Carlo simulation, it will vary from run to run, as seen when comparing the image above with the image below.
 
 ![demo2](/images/pic18.png)
+
+In the previous two images
