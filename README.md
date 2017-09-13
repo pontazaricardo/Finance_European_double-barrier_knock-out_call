@@ -28,4 +28,4 @@ Because the second value is given by a Monte Carlo simulation, it will vary from
 
 ![demo2](/images/pic18.png)
 
-In the previous two images we can see that the value of the Monte Carlo simulations shifted from 
+In the previous two images we can see that the value of the Monte Carlo simulations shifted from 1.9460 to 1.5205.
