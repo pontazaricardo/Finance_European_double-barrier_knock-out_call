@@ -2,6 +2,8 @@
 
 This program calculates the price of European double-barrier knock-out calls by the use of binomial trees and Monte Carlo Simulations.
 
+![demo](/images/demo.gif)
+
 ## INPUTS AND OUTPUTS
 1. **Inputs:** *S* (stock price), *X* (strike price), *H* (high barrier), *L* (low barrier), *t* (year), *s* (volatility in %), *r* (continuously compounded interest rate in %), and *n* (number of periods). 
 2. **Output:** Prices given by both the binomial tree and the Monte Carlo simulation.
