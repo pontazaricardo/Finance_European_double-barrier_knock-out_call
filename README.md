@@ -21,3 +21,5 @@ In MatLab, just run the given file.
 Suppose *S* = 95, *X* = 100, *H* = 140, *L* = 90, *t* = 1 (year), *s* = 25 (%), *r* = 10 (%), and *n* = 1000:
 	1. The price given by the tree is 1.457
 	2. The price given by the 1.94 (varies depending on the amount of paths of the Monte Carlo simulation).
+
+![demo](/images/demo.gif)
