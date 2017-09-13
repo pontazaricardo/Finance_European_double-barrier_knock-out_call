@@ -14,7 +14,7 @@ For this program, we have:
 
 We need to assume *L* < *S* < *H*, i.e., the stock price is always between the lower and high barrier.
 
-## USAGE
+## Usage
 In MatLab, just run the given file.
 
 ## EXAMPLE
